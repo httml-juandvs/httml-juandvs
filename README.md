@@ -75,7 +75,7 @@
 
 
 </a>
-<a href="https://danny200523.github.io/Proyecto_Javascript_GuerreroDaniel-VargasJuan/" target="_blank">
+<a href="https://danny200523.github.io/F1_Simulator/" target="_blank">
 <img src="https://img.shields.io/badge/Ver Página-green?style=for-the-badge&color=000000">
 </a>
 </p>
