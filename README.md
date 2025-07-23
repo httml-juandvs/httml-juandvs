@@ -6,8 +6,8 @@
 
 - 🎓 Formación: Bachiller Comercial - Técnico en desarrollo web (Campuslands✨)
 - 🧠 Me apasiona aprender sobre desarrollo web, bases de datos y buenas prácticas en programación.
-- 🌱 Actualmente estoy profundizando en **MongoDB**, **Node.js** y **Arquitectura de Software**.
-- 💼 Interesado en proyectos de desarrollo frontend y bases de datos.
+- 🌱 Actualmente estoy profundizando en **MongoDB**,y bases de datos NOSQL.
+- 💼 Interesado en proyectos de desarrollo frontend y BBDD.
 
 
 ## 💡 Habilidades blandas
@@ -103,8 +103,12 @@
   <a/>
 </p>
 
+<P>
 
 <p align="center">
+<a href="https://httml-juandvs.github.io/Portafolio_VargasJuan/" target="_blank">
+<img src="https://img.shields.io/badge/Ver Portafolio-FFFFFF?style=for-the-badge&logoColor=black">
+</a>
 <a href="https://httml-juandvs.github.io/Portafolio_VargasJuan/img/hv.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Descargar CV-green?style=for-the-badge&color=000000">
 </a>
