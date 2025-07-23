@@ -2,9 +2,46 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00CED1&text=Hola%20%20,Soy%20Juan%20David%20👋&fontSize=50&section=header&reversal=true&desc=Desarrollador%20Web💻⚡&descAlign=50&descAlignY=51&fontAlignY=28"/>
 </p>
 
+## 🚀 Sobre mí
+
+- 🎓 Formación: Bachiller Comercial - Técnico en desarrollo web (Campuslands✨)]
+- 🧠 Me apasiona aprender sobre desarrollo web, bases de datos y buenas prácticas en programación.
+- 🌱 Actualmente estoy profundizando en **MongoDB**, **Node.js** y **Arquitectura de Software**.
+- 💼 Interesado en proyectos de desarrollo frontend y bases de datos.
 
 
-<a href="">header</a>
+## 💡 Habilidades blandas
+
+- 🤝 Trabajo en equipo  
+- 🗣️ Comunicación asertiva  
+- 🧠 Pensamiento crítico y lógico  
+- ⏳ Gestión del tiempo  
+- 🚀 Adaptabilidad y aprendizaje continuo  
+- 🎯 Orientación a objetivos y detalle  
+- 😌 Empatía y actitud positiva  
+
+## 💻 Leguajes y Tecnologías que manejo:
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
 ## Proyectos
 <table>
 <tr>
@@ -48,46 +85,27 @@
 </div>
 <br>
 
+## 📞 Contactame:
 
-<div align="center">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/juan-david-vargas-soto-27ba8a373/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-
   <a href="https://discord.com/invite/urgJMfVT" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-
   <a href="https://wa.link/p5ibs5" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="mailto:juandavargassoto@gmail.com"  target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <a/>
-</div>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+</p>
 
 
+<p align="center">
 <a href="https://httml-juandvs.github.io/Portafolio_VargasJuan/img/hv.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Descargar CV-green?style=for-the-badge&color=000000">
 </a>
-###
+</p>
