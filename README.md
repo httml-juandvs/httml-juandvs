@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Formación: Bachiller Comercial - Técnico en desarrollo web (Campuslands✨)]
+- 🎓 Formación: Bachiller Comercial - Técnico en desarrollo web (Campuslands✨)
 - 🧠 Me apasiona aprender sobre desarrollo web, bases de datos y buenas prácticas en programación.
 - 🌱 Actualmente estoy profundizando en **MongoDB**, **Node.js** y **Arquitectura de Software**.
 - 💼 Interesado en proyectos de desarrollo frontend y bases de datos.
@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-## Proyectos
+## 📚 Proyectos:
 <table>
 <tr>
 <td width="50%">
@@ -109,3 +109,11 @@
 <img src="https://img.shields.io/badge/Descargar CV-green?style=for-the-badge&color=000000">
 </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/httml-juandvs/httml-juandvs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/httml-juandvs/httml-juandvs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/httml-juandvs/httml-juandvs/output/pacman-contribution-graph.svg">
+</picture>
+
+
