@@ -14,7 +14,7 @@
 <a href="https://github.com/Maria-Juliana-Saavedra-Mejia/Kario_Media.git" target="_blank"><img src="https://i.ibb.co/rGQvV4Q3/kario.png" alt="kario" border="0"></a> 
 <p>
 <a href="https://github.com/Maria-Juliana-Saavedra-Mejia/Kario_Media.git" target="_blank">
-<img src="https://img.shields.io/badge/VER-FFFFFF?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-FFFFFF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://maria-juliana-saavedra-mejia.github.io/Kario_Media/" target="_blank">
 <img src="https://img.shields.io/badge/Ver Página-green?style=for-the-badge&color=000000">
@@ -35,6 +35,8 @@
 <p>
 <a href="https://github.com/Danny200523/Proyecto_Javascript_GuerreroDaniel-VargasJuan" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-FFFFFF?style=for-the-badge&logo=github&logoColor=black">
+
+
 </a>
 <a href="https://danny200523.github.io/Proyecto_Javascript_GuerreroDaniel-VargasJuan/" target="_blank">
 <img src="https://img.shields.io/badge/Ver Página-green?style=for-the-badge&color=000000">
@@ -48,10 +50,20 @@
 
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/juan-david-vargas-soto-27ba8a373/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+
+  <a href="https://discord.com/invite/urgJMfVT" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+
+  <a href="https://wa.link/p5ibs5" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:juandavargassoto@gmail.com"  target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a/>
 </div>
 
 <div align="center">
@@ -74,4 +86,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
+
+<a href="https://httml-juandvs.github.io/Portafolio_VargasJuan/img/hv.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Descargar CV-green?style=for-the-badge&color=000000">
+</a>
 ###
